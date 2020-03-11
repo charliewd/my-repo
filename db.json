@@ -1,4 +1,4 @@
-[
+variableTestData= [
   {
     "id": 1,
     "name": "charlie",
@@ -14,4 +14,4 @@
     "name": "greg",
     "age": 20
   }
-]
+];
